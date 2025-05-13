@@ -1,0 +1,8 @@
+web3
+circom
+snarkjs
+flask
+streamlit
+numpy
+scipy
+pandas
