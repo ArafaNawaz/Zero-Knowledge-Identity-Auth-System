@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anomaly Detection in Smart Grids Using Blockchain-Integrated Collaborative Decision-Making Systems  
 
 ## Project Overview  
@@ -39,3 +40,7 @@ This project presents a decentralized system for detecting anomalies in smart gr
    ```bash
    git clone https://github.com/ArafaNawaz/Thesis-Anomaly-Detection-System.git
    cd Thesis-Anomaly-Detection-System
+=======
+# Zero-Knowledge-Identity-Auth-System
+Zero-Knowledge Authentication System using zk-SNARKs for secure identity verification.
+ 7e605badd7278f6a0dd3b286c4d568066894259c
