@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Anomaly Detection in Smart Grids Using Blockchain-Integrated Collaborative Decision-Making Systems  
 
 ## Project Overview  
